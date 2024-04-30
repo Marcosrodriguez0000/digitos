@@ -14,7 +14,6 @@ public class Main {
             String parteLetra = partes[1];
 
 
-
             String siguientePlaca = obtenerSiguientePlaca(parteNumero, parteLetra);
             System.out.println(siguientePlaca);
         }
